@@ -88,3 +88,11 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
+## About Windows SSD
+
+### Project
+Microsoft/caffe + weiliu89/caffe/examples/ssd
+
+### Model
+VGG_VOC0712_SSD_300x300_iter_120000.caffemodel [download] (http://www.cs.unc.edu/~wliu/projects/SSD/models_VGGNet_VOC0712_SSD_300x300.tar.gz)
