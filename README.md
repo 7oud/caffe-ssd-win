@@ -49,7 +49,7 @@ Also, you can disable cuDNN by setting `UseCuDNN` to `false` in the property fil
 
 ### Python
 To build Caffe Python wrapper set `PythonSupport` to `true` in `.\windows\CommonSettings.props`.
-Download Miniconda 2.7 64-bit Windows installer [from Miniconda website] (http://conda.pydata.org/miniconda.html).
+Download Miniconda 2.7 64-bit Windows installer [from Miniconda website](http://conda.pydata.org/miniconda.html).
 Install for all users and add Python to PATH (through installer).
 
 Run the following commands from elevated command prompt:
@@ -95,4 +95,4 @@ Please cite Caffe in your publications if it helps your research:
 Microsoft/caffe + weiliu89/caffe/examples/ssd
 
 ### Model
-VGG_VOC0712_SSD_300x300_iter_120000.caffemodel [download](http://www.cs.unc.edu/~wliu/projects/SSD/models_VGGNet_VOC0712_SSD_300x300.tar.gz)
+VGG_VOC0712_SSD_300x300_iter_120000.caffemodel [Download](http://www.cs.unc.edu/~wliu/projects/SSD/models_VGGNet_VOC0712_SSD_300x300.tar.gz)
