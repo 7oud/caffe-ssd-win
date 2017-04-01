@@ -1,0 +1,4 @@
+# Model
+VGG_VOC0712_SSD_300x300_iter_120000.caffemodel
+2016/11/30 15:26
+105,154,267 Byte
