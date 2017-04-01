@@ -1,0 +1,5 @@
+D:\Workspace\Github\weiliu89\caffe-ms-ssd-gpu\data\VOC0712\000166.jpg
+D:\Workspace\Github\weiliu89\caffe-ms-ssd-gpu\data\VOC0712\001852.jpg
+D:\Workspace\Github\weiliu89\caffe-ms-ssd-gpu\data\VOC0712\002597.jpg
+D:\Workspace\Github\weiliu89\caffe-ms-ssd-gpu\data\VOC0712\004030.jpg
+D:\Workspace\Github\weiliu89\caffe-ms-ssd-gpu\data\VOC0712\005225.jpg
